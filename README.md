@@ -11,10 +11,8 @@
      
   ### Principles:
   Backlog assignment:
-  
-    - good-first-issues
-    
-    - Discussion
+    * good-first-issues
+    * Discussion
   
 ## Use Cases
 
