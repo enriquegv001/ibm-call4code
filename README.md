@@ -34,7 +34,7 @@ Contribution Guidelines:
 2. Open communication: Listen, share knowledge, appreciate others and motivate them. Keep it simple and always with transparent
 3. Look always for continuous improvement, think big and challenge conventional wisdom
 4. Bias for action: Heuristic decision making + risk
-5. Face issues with EQ and focuse
+5. Face issues with emotional intelligence and focuse
 6. Take responsibility for decisions
 
 ### Requirements
