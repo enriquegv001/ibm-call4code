@@ -11,23 +11,26 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
 
 ## Getting started
 **Principles Contribution Guidelines**
-* good-first-issues: define task and proacively choose 
-* Discussion forum
+     * good-first-issues: define task and proacively choose 
+     * Discussion forum
 
 ## Additional information about the challenge
-
+     1. Completeness and transferability - (5 points)
+     2. Effectiveness and efficiency - (5 points)
+     3. Design and usability - (5 points)
+     4. Creativity and innovation - (5 points)
 
 **Code of conduct**
-1. Commitment and long term view
-2. Open communication: Listen, share knowledge, appreciate others and motivate them. Keep it simple and always with transparent
-3. Look always for continuous improvement, think big and challenge conventional wisdom
-4. Bias for action: Heuristic decision making + risk
-5. Face issues with emotional intelligence and focuse
-6. Take responsibility for decisions
+     1. Commitment and long term view
+     2. Open communication: Listen, share knowledge, appreciate others and motivate them. Keep it simple and always with transparent
+     3. Look always for continuous improvement, think big and challenge conventional wisdom
+     4. Bias for action: Heuristic decision making + risk
+     5. Face issues with emotional intelligence and focuse
+     6. Take responsibility for decisions
 
 ### Requirements
 **2024 Timeline**
-1. Call for Code Global Challenge resigstration
-2. March 8, Challenge start date
-3. October 17, Challenge submissions due
-4. December, Challenge winners announced
+     1. Call for Code Global Challenge resigstration
+     2. March 8, Challenge start date
+     3. October 17, Challenge submissions due
+     4. December, Challenge winners announced
