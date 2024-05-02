@@ -16,7 +16,6 @@ Contribution Guidelines:
 * Discussion forum
 
 <!--  
-### Deadlines
 ## Additional information
 -->
 
@@ -29,8 +28,8 @@ Contribution Guidelines:
 6. Take responsibility for decisions
 
 ### Requirements
-1. Document that proove participation characteristics
-2. Challenge 24 hrs at least to member have to be present
-3. Alliance with social organization or PyME
-4. Money allocation is regulated by Tec and it requiers project formalization  
-5. If a team member don't want to continue just sign letter
+2024 Timeline
+1. Call for Code Global Challenge resigstration
+2. March 8, Challenge start date
+3. October 17, Challenge submissions due
+4. December, Challenge winners announced
