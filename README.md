@@ -15,19 +15,10 @@ Contribution Guidelines:
 * good-first-issues: define task and proacively choose 
 * Discussion forum
 
-### Backlog
-1. Learn about Xignux, Identify the metric evaluation patterns and benchmark
-2. Learn about software infrastucture, and realtion to generative AI (vectorial databases)
-3. Design test on how to implement
-
+<!--  
 ### Deadlines
-1. Register: Friday 5, Apr
-2. Winner anouncement: 15, Apr
-3. 24 hour challenge: 7-8, May
-4. Pitch and winner anownsemnt: 8, May
-5. Keep deliver advances: ...
-
 ## Additional information
+-->
 
 ### Code of conduct
 1. Commitment and long term view
