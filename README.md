@@ -40,7 +40,7 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
      3. October 17, Challenge submissions due 
      4. December, Challenge winners announced
 
-Check [Submission requirements](https://compete.callforcode.skillsnetwork.site/competitions/2024-call-for-code-global-challenge/submission-checklist)
+Check [Submission requirements](https://compete.callforcode.skillsnetwork.site/competitions/2024-call-for-code-global-challenge/submission-checklist) and (Contest participation Agreement)[https://cfc-global-challenge-2024.s3.us-east.cloud-object-storage.appdomain.cloud/2024-Call-for-Code-Global-Challenge-Participation-Agreement.pdf]
 
 ### About us
 We are a team of problem-solvers with varied experience and diverse skills. Aiming to design a unique and impacful solution and characterized by **resilience**.
