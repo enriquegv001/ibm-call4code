@@ -41,5 +41,5 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
      4. December, Challenge winners announced
 
 ### About us
-We are a team of problem-solvers with varied experience and diverse skills. Aiming to design a unique and impacful solution. 
+We are a team of problem-solvers with varied experience and diverse skills. Aiming to design a unique and impacful solution and characterized by resilience.
      
