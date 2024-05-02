@@ -38,4 +38,7 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
      1. Call for Code Global Challenge resigstration
      2. March 8, Challenge start date
      3. October 17, Challenge submissions due
+
+### About us
+We are a team of problem-solvers with varied experience and diverse skills. Aiming to design a unique and impacful solution. 
      4. December, Challenge winners announced
