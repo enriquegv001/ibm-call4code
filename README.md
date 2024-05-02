@@ -14,12 +14,6 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
 * good-first-issues: define task and proacively choose 
 * Discussion forum
 
-## Additional information about the challenge
-     1. Completeness and transferability - (5 points)
-     2. Effectiveness and efficiency - (5 points)
-     3. Design and usability - (5 points)
-     4. Creativity and innovation - (5 points)
-
 **Code of conduct**
      1. Commitment and long term view
      2. Open communication: Listen, share knowledge, appreciate others and motivate them. Keep it simple and always with transparent
@@ -27,8 +21,17 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
      4. Bias for action: Heuristic decision making + risk
      5. Face issues with emotional intelligence and focuse
      6. Take responsibility for decisions
+     
+## Additional information about the challenge
+**Judging criteria** minimum score of 0 and maximum score of 20 points
 
+     1. Completeness and transferability - (5 points)
+     2. Effectiveness and efficiency - (5 points)
+     3. Design and usability - (5 points)
+     4. Creativity and innovation - (5 points)
+     
 ### Requirements
+
      1. Call for Code Global Challenge resigstration
      2. March 8, Challenge start date
      3. October 17, Challenge submissions due
