@@ -7,16 +7,15 @@ Basic necessities like clean water and safe, affordable housing, or opportunitie
 Be a part of a new era in responsible AI. For the 2024 Call for Code Global Challenge, we’re calling on students, developers, and problem-solvers from universities and companies around the world to build innovative AI tech solutions with IBM watsonx that address specific challenges of equitable access to essential needs. Help show the world that AI can be trusted and used responsibly.
      
 ## Purpose
-Contibute to humanity with technology integration. Enhacing singularity with AI.
+Contibute to humanity with technology integration. Enhacing singularity with AI. 
 
 ## Getting started
 **Principles Contribution Guidelines**
 * good-first-issues: define task and proacively choose 
 * Discussion forum
 
-<!--  
-## Additional information
--->
+## Additional information about the challenge
+
 
 **Code of conduct**
 1. Commitment and long term view
