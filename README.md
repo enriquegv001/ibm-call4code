@@ -1,4 +1,4 @@
-# Xignux
+# 2024 Call for Code Global Challenge
 
 ## Introduction
 About the challenge: Innovative solution for UN goals 2030.
