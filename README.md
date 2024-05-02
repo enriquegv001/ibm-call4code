@@ -10,8 +10,7 @@ Be a part of a new era in responsible AI. For the 2024 Call for Code Global Chal
 Contibute to humanity with technology integration. Enhacing singularity with AI.
 
 ## Getting started
-### Principles
-Contribution Guidelines:
+**Principles Contribution Guidelines**
 * good-first-issues: define task and proacively choose 
 * Discussion forum
 
@@ -19,7 +18,7 @@ Contribution Guidelines:
 ## Additional information
 -->
 
-### Code of conduct
+**Code of conduct**
 1. Commitment and long term view
 2. Open communication: Listen, share knowledge, appreciate others and motivate them. Keep it simple and always with transparent
 3. Look always for continuous improvement, think big and challenge conventional wisdom
@@ -28,7 +27,7 @@ Contribution Guidelines:
 6. Take responsibility for decisions
 
 ### Requirements
-2024 Timeline
+**2024 Timeline**
 1. Call for Code Global Challenge resigstration
 2. March 8, Challenge start date
 3. October 17, Challenge submissions due
