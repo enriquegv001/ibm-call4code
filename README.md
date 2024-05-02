@@ -17,7 +17,7 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
 **Code of conduct**
 
      1. Commitment and long term view
-     2. Open communication: Listen, share knowledge, appreciate others and motivate them. 
+     2. Open communication: Listen, share knowledge, appreciate others and motivate them 
      3. Keep communication simple and always with transparent
      4. Look always for continuous improvement, think big and challenge conventional wisdom
      5. Bias for action: Heuristic decision making + risk
