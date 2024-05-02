@@ -15,6 +15,7 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
 * Discussion forum
 
 **Code of conduct**
+
      1. Commitment and long term view
      2. Open communication: Listen, share knowledge, appreciate others and motivate them. Keep it simple and always with transparent
      3. Look always for continuous improvement, think big and challenge conventional wisdom
@@ -31,6 +32,7 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
      4. Creativity and innovation - (5 points)
      
 ### Requirements
+**2024 Timeline**
 
      1. Call for Code Global Challenge resigstration
      2. March 8, Challenge start date
