@@ -11,8 +11,8 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
 
 ## Getting started
 **Principles Contribution Guidelines**
-     * good-first-issues: define task and proacively choose 
-     * Discussion forum
+* good-first-issues: define task and proacively choose 
+* Discussion forum
 
 ## Additional information about the challenge
      1. Completeness and transferability - (5 points)
@@ -29,7 +29,6 @@ Contibute to humanity with technology integration. Enhacing singularity with AI.
      6. Take responsibility for decisions
 
 ### Requirements
-**2024 Timeline**
      1. Call for Code Global Challenge resigstration
      2. March 8, Challenge start date
      3. October 17, Challenge submissions due
